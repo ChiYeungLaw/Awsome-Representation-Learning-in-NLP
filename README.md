@@ -1,2 +1,2 @@
-# Awsome-Cross-lingual-Contextual-Embeddings
-Papers, code and datasets about Cross-lingual Contextual Embeddings
+# Awsome-Representation-Learning-in-NLP
+Papers, code and datasets about Representation Learning in NLP
